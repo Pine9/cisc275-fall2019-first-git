@@ -3,4 +3,7 @@
 
 2. What five objects are created in the main?
 
-3. Can you spot the Comparator constructor call? Where is the class definition for the Comparator?
+ArrayList of Dogs, 3 Dogs, and an Animal Comparator
+
+3. Can you spot the Comparator constructor call? Where is the class definition for the Comparator? 
+The class definition is directly within the curly braces after the constructor call.

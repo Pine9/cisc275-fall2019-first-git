@@ -13,7 +13,10 @@ For this assignment you will follow the instructions at the above link to:
 - In your play directory, create four files. Make it so that: one is untracked; one is modified; one is staged; one is in the repo. Verify the state of your four files and ask another person to confirm you have those four files in four states.
 
 In this space, type the sequence of commands you used to achieve the final state of all four files:
-
+vim file2
+git add file4
+git commit -m "added file to repo"
+git add file3
 
 
 
